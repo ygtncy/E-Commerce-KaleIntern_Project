@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6CE671-610D-4EC4-9377-0BDFF18C1D09}|Entities\\Entities.csproj|c:\\users\\yigittuncay\\source\\repos\\corelayer\\entities\\concrete\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6CE671-610D-4EC4-9377-0BDFF18C1D09}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6CE671-610D-4EC4-9377-0BDFF18C1D09}|Entities\\Entities.csproj|c:\\users\\yigittuncay\\source\\repos\\corelayer\\entities\\abstract\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6CE671-610D-4EC4-9377-0BDFF18C1D09}|Entities\\Entities.csproj|solutionrelative:entities\\abstract\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6CE671-610D-4EC4-9377-0BDFF18C1D09}|Entities\\Entities.csproj|c:\\users\\yigittuncay\\source\\repos\\corelayer\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6CE671-610D-4EC4-9377-0BDFF18C1D09}|Entities\\Entities.csproj|solutionrelative:entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286D2012-8B14-47A3-858F-4FDEFAECA485}|CoreLayer\\CoreLayer.csproj|c:\\users\\yigittuncay\\source\\repos\\corelayer\\corelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286D2012-8B14-47A3-858F-4FDEFAECA485}|CoreLayer\\CoreLayer.csproj|solutionrelative:corelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782BDCB9-8077-4555-A757-C576BD3A30BF}|TestConsole\\TestConsole.csproj|c:\\users\\yigittuncay\\source\\repos\\corelayer\\testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782BDCB9-8077-4555-A757-C576BD3A30BF}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782BDCB9-8077-4555-A757-C576BD3A30BF}|TestConsole\\TestConsole.csproj|c:\\users\\yigittuncay\\source\\repos\\corelayer\\testconsole\\berkayaextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782BDCB9-8077-4555-A757-C576BD3A30BF}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\berkayaextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782BDCB9-8077-4555-A757-C576BD3A30BF}|TestConsole\\TestConsole.csproj|c:\\users\\yigittuncay\\source\\repos\\corelayer\\testconsole\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782BDCB9-8077-4555-A757-C576BD3A30BF}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\Entities\\Concrete\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\Entities\\Concrete\\Kullanici.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Kullanici.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA8wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:57:11.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\Entities\\Abstract\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\Abstract\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\Entities\\Abstract\\BaseEntity.cs",
+              "RelativeToolTip": "Entities\\Abstract\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:53:17.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\Entities\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\Entities\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "Entities\\Abstract\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:47:50.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BerkayaExtention.cs",
+              "DocumentMoniker": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\TestConsole\\BerkayaExtention.cs",
+              "RelativeDocumentMoniker": "TestConsole\\BerkayaExtention.cs",
+              "ToolTip": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\TestConsole\\BerkayaExtention.cs",
+              "RelativeToolTip": "TestConsole\\BerkayaExtention.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:38:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extention.cs",
+              "DocumentMoniker": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\TestConsole\\Extention.cs",
+              "RelativeDocumentMoniker": "TestConsole\\Extention.cs",
+              "ToolTip": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\TestConsole\\Extention.cs",
+              "RelativeToolTip": "TestConsole\\Extention.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAMwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:26:04.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\TestConsole\\Program.cs",
+              "RelativeDocumentMoniker": "TestConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\TestConsole\\Program.cs",
+              "RelativeToolTip": "TestConsole\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:25:05.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\CoreLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "CoreLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\yigittuncay\\source\\repos\\CoreLayer\\CoreLayer\\Class1.cs",
+              "RelativeToolTip": "CoreLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:19:49.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
